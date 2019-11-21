@@ -61,7 +61,7 @@ body {
   z-index: 101;
 }
 
-.robot:hover > .robot-head-right{
+.robot:hover > .robot-head-right {
   top: -24px;
   right: -151px;
 }
