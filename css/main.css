@@ -60,3 +60,8 @@ body {
   top: -49px;
   z-index: 101;
 }
+
+.robot:hover > .robot-head-right{
+  top: -24px;
+  right: -151px;
+}
