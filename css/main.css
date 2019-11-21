@@ -39,7 +39,10 @@ body {
   position: relative;
 }
 
-.robot-head-right,
 .robot-head-left {
   width: 125px;
+}
+
+.robot-head-right{
+
 }
