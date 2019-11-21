@@ -40,9 +40,13 @@ body {
 }
 
 .robot-head-left {
-  width: 125px;
+  right: -137px;
+  top: -20px;
+  position: relative;
 }
 
 .robot-head-right{
-
+  right: -113px;
+  top: -20px;
+  position: relative;
 }
