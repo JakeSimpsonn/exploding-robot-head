@@ -34,7 +34,9 @@ body {
 }
 
 .robot-brain {
-  width: 46px;
+  top: -20px;
+  left: 137px;
+  position: relative;
 }
 
 .robot-head-right,
